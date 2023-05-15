@@ -1,0 +1,11 @@
+.newsData{
+    display: flex;
+    flex-wrap: wrap;
+}
+.newsData div {
+    display: inline-block;
+    margin: 10px;
+    padding: 10px;
+    border: 1px solid black;
+    width: 200px;
+}
